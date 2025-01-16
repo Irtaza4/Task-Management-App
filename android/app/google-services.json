@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43211069826",
+    "project_id": "valid-heuristic-438615-g2",
+    "storage_bucket": "valid-heuristic-438615-g2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43211069826:android:ccdcb148de20cfbdab579b",
+        "android_client_info": {
+          "package_name": "com.example.final_project_internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJgpbQHDsaVlL2ku0zi2L0_k23asF5Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
